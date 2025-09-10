@@ -54,39 +54,6 @@ I work with **Python, Django, Flutter (Dart)** and backend services like **Fireb
 
 ---
 
-## 💼 Experience  
-
-**Python Full-Stack Developer Intern** — *Bluekode Academy, Coimbatore*  
-📅 **Feb 2025 – Mar 2025**  
-- Built scalable web apps using **Django** and **MySQL**.  
-- Developed **responsive front-end** components with **Bootstrap** and JavaScript.  
-- Optimized **SQL queries** for better backend performance.  
-- Collaborated on debugging, testing, and peer code reviews.  
-
----
-
-## 📌 Projects  
-
-### 🛒 **Department Store E-Commerce Website**  
-**Tech Stack:** Python, Django, MySQL, HTML, CSS, JavaScript, Bootstrap  
-- Developed a **complete e-commerce platform** with user authentication, cart, and order management.  
-- Designed a **mobile-responsive UI** for a seamless user experience.  
-
-### 🍔 **Smart Canteen System** *(In Progress)*  
-**Tech Stack:** Python, Django, MySQL, QR Code, Bootstrap, JavaScript  
-- Implemented **QR code-based login** with **PIN authentication**.  
-- Integrated **wallet-based payments** with **auto KOT generation**.  
-- Designed **admin, staff, and user dashboards** for role-based access.  
-
----
-
-## 🏅 Certifications  
-- 🏆 **Python Full-Stack Development** — Coursera *(May 2024 – Jan 2025)*  
-- 🏆 **Python Full-Stack Developer Internship** — Bluekode Academy *(Feb 2025 – Mar 2025)*  
-- 📊 **Data Science & Machine Learning (Beginner to Advanced)** *(Ongoing)*  
-
----
-
 ## 📫 Connect With Me  
 <p align="center">
   <a href="mailto:kavipriyan292004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
