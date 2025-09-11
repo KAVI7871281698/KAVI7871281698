@@ -52,17 +52,6 @@ I work with **Python, Django, Flutter (Dart)** and backend services like **Fireb
 
 ---
 
-## 🎥 Featured Project Demo  
-
-<p align="center">
-  <!-- Replace the link below with your YouTube or Loom video -->
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Project Demo" width="600" style="border-radius:10px;" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect With Me  
 <p align="center">
   <a href="mailto:kavipriyan292004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
