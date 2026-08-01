@@ -1,9 +1,11 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kavi%20Priyan%20R&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Python%20%26%20Flutter%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=E5C158" width="100%"/>
+# 👑 Kavi Priyan R
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%91%91+Crafting+Digital+Experiences;Python+%26+Flutter+Full-Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://img.shields.io/badge/-000000?style=flat" width="700" height="3"/>
 
 </div>
 
@@ -112,8 +114,10 @@ I work with **Python, Django, Flutter (Dart)** and backend services like **Fireb
 
 <i>"Code is like humor. When you have to explain it, it's bad." 😎</i>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://img.shields.io/badge/-000000?style=flat" width="700" height="3"/>
+
+**Thanks for stopping by! ⭐**
 
 </div>
