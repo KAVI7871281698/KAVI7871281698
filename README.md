@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kavi%20Priyan%20R&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Python%20%26%20Flutter%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=E5C158" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%91%91+Crafting+Digital+Experiences;Python+%26+Flutter+Full-Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%91%91+Crafting+Digital+Experiences;Python+%26+Flutter+Full-Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -77,13 +77,11 @@ I work with **Python, Django, Flutter (Dart)** and backend services like **Fireb
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVI7871281698&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=E5C158&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" />
+<img src="https://streak-stats.demolab.com/?user=KAVI7871281698&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=E5C158&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAVI7871281698&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" width="100%"/>
 
 </div>
-
-> 💡 **Note:** GitHub stat cards are rendered live by a free public service (`github-readme-stats.vercel.app`), which occasionally goes down or gets rate-limited — that's why images sometimes fail to load, not a broken link. If a card ever shows blank, just refresh the page after a minute, or see the **self-hosting fix** at the bottom of this file.
 
 ---
 
@@ -119,20 +117,3 @@ I work with **Python, Django, Flutter (Dart)** and backend services like **Fireb
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!-- ================================================================= -->
-<!--
-  🛠️ SELF-HOSTING FIX FOR BROKEN STATS CARDS (optional but permanent):
-  The public vercel.app instance above is shared by millions of profiles
-  and gets rate-limited constantly. To get 100% uptime:
-
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Deploy your fork to your own Vercel account (free, 2-minute setup:
-     click "Deploy" on that repo's README, connect your Vercel account)
-  3. Replace "github-readme-stats.vercel.app" in the image URLs above
-     with your new deployment URL, e.g. "your-name-stats.vercel.app"
-
-  Same trick works for github-readme-streak-stats and
-  github-readme-activity-graph — both are open source and freely
-  forkable/deployable on Vercel's free tier.
--->
